@@ -1,0 +1,5 @@
+package com.creativepage.moviecatalogservice.resource;
+
+public class MovieCatalogResource {
+
+}

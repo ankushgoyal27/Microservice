@@ -1,0 +1,5 @@
+package com.creativepage.ratingdataservice.models;
+
+public class UserRating {
+
+}

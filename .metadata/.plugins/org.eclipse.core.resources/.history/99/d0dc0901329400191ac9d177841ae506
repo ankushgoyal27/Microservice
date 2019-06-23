@@ -1,0 +1,15 @@
+package com.creativepage.moviecatalogservice.resource;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.creativepage.moviecatalogservice.models.CatalogItem;
+
+@RestController
+public class MovieCatalogResource {
+	
+	public List<CatalogItem> getCatalog(String userId){
+		
+	}
+}

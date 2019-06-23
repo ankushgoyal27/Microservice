@@ -1,0 +1,10 @@
+package com.creativepage.moviecatalogservice.models;
+
+public class CatalogItem {
+	
+	private String title;
+	private String desc;
+	private String rating;
+	
+	
+}

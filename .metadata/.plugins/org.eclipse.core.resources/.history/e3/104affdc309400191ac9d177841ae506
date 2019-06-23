@@ -1,0 +1,5 @@
+package com.creativepage.moviecatalogservice.models;
+
+public class CatalogItem {
+
+}
